@@ -1,0 +1,60 @@
+.CSE{
+    display: inline-block;
+}
+.ECE{
+    display: inline-block;
+    margin-top: 0;
+}
+.cse-image{
+display: block;
+}
+.cse-p{
+display: inline-block
+}
+.ece-p{
+display: inline-block;
+}
+
+div{
+    vertical-align: top;
+}
+.ece-image1{
+width: 593px;
+height: 356px;
+display: block;
+}
+.ece-image2{
+    width: 615px;
+    height: 483px;
+    display: block;
+}
+.ece-image3{
+    width: 595px;
+    height: 353px;
+    display: block;
+}
+.ece-image4{
+    width: 610px;
+    height: 524px;
+    display: block;
+}
+.ece-image5{
+    width: 603px;
+    height: 471px;
+    display: block;
+}
+.ece-image6{
+    width: 627px;
+    height: 520px;
+    display: block;
+}
+.ece-image7{
+    width: 609px;
+    height: 328px;
+    display: block;
+}
+.ece-image8{
+    width: 601px;
+    height: 173px;
+    display: block;
+}
